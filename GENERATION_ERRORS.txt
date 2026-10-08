@@ -1,0 +1,2 @@
+Workflow 'Showcase Web Playground Test - Cart': Knotenart 'webhookTrigger' wird nicht generiert — der Schritt steht nur als Kommentar im Test. Der Test ist damit unvollstaendig und prueft an dieser Stelle nichts.
+Workflow 'Showcase Web Playground Test - Cart': Knotenart 'easyTestData' wird nicht generiert — der Schritt steht nur als Kommentar im Test. Der Test ist damit unvollstaendig und prueft an dieser Stelle nichts.
