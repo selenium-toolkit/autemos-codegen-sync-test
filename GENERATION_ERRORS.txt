@@ -1,0 +1,4 @@
+Workflow 'Showcase Web Playground Test - Cart': unvollstaendig (1 von 25 Schritten)
+Workflow 'Showcase Web Playground Test - Cart': Knotenart 'easyTestData' wird nicht generiert (serverseitiger Dienst) — der Schritt steht nur als Kommentar im Test. Der Test ist damit unvollstaendig und prueft an dieser Stelle nichts.
+Config file 'pom.xml' did not declare JUnit 5, Playwright for Java, Jackson — replaced by the java/playwright default.
+Config file 'testng.xml' configures a test framework the generated code does not use and was left out of the export.
